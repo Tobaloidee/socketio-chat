@@ -6,4 +6,8 @@
  $ npm run start
 ```
 
+Dirigez vous ensuite à l'URL suivante !
+
+`http://localhost:8080`
+
 Et voilà !
