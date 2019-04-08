@@ -1,3 +1,5 @@
+<p align="center"><img src="/logo/logotype-horizontal.png"></p>
+
 # Commandes à éxecuter après avoir cloné le repo
 
 ```sh
